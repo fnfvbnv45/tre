@@ -1,1 +1,1 @@
-Ligne 1: Texte ici. | Ligne 2: Autre texte. | Ligne 3: Encore du texte.
+1 - Texte ici. | 2 - Autre texte. | 3 - Encore du texte.
