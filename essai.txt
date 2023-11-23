@@ -1,3 +1,1 @@
-alert("Alerte 1: Ceci est la première alerte !");
-alert("Alerte 2: Ceci est la deuxième alerte !");
-alert("Alerte 3: Ceci est la troisième alerte !");
+eee
