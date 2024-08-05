@@ -1,10 +1,2 @@
-This is a test message.
-
-
-This is a test message.
-
-
-This is a test message.
-
-
-
+Attention: Maintenance prévue ce soir à 22h.<br>Veuillez sauvegarder vos travaux.<br><br>
+<p>Important: Mise à jour du système demain matin à 8h.</p><p>Des interruptions de service peuvent survenir.</p>
